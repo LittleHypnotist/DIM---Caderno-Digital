@@ -53,3 +53,9 @@ Na segunda imagem podemos verificar o caso de affordance numa interface, esta co
 
   Nestas duas imagens conseguimos perceber o quão importante é o feedback dado por uma interface.
   
+  ## História do desenvolvimento de interfaces (08/10/2022)
+  
+  Aqui podemos verificar e perceber um pouco como o desenvolvimento das interfaces ao longo dos anos tem evoluido e a tecnologia envolvida.
+  
+  ![GUI-Timeline-1024x424](https://user-images.githubusercontent.com/75622692/194699449-dff41d28-aa3f-47c2-84b7-26e5ba4abd46.png)
+

@@ -53,6 +53,12 @@ Na segunda imagem podemos verificar o caso de affordance numa interface, esta co
 
   Nestas duas imagens conseguimos perceber o quão importante é o feedback dado por uma interface.
   
+  ## Sugestão para o caderno digital (1)
+  
+  Uma aplicação que eu uso com frequência é a app do OLX, para compra e venda de vários produtos. Na minha opinião o densenvolvimento do interface da aplicação foi bem concebido, pois como podemos ver nas imagens mais a baixo, temos os botões mais em baixo, que quando o mesmo se encontra selecionado é perceptível atrávés do interface entender qual dos separadores está selecionado, sendo um exemplo de affordance da aplicação, a aplicação também acaba por nos dar um feedback neste caso, quando temos uma mensagem por ler, também pode ser observado pela imagem mais a baixo.
+  
+  ![WhatsApp Image 2022-10-08 at 11 28 53](https://user-images.githubusercontent.com/75622692/194703302-345fda1b-6230-4be0-82a1-fc0c45c08938.jpeg)
+
   ## História do desenvolvimento de interfaces (08/10/2022)
   
   Aqui podemos verificar e perceber um pouco como o desenvolvimento das interfaces ao longo dos anos tem evoluido e a tecnologia envolvida.

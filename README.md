@@ -71,6 +71,12 @@ Na segunda imagem podemos verificar o caso de affordance numa interface, esta co
   Na imagem a baixo, podemos verificar a teoria do processo cognitivo em multimédia, na imagem as setas representam então o processo.
     
   ![processocognitivo](https://user-images.githubusercontent.com/75622692/197531366-c486ca16-b471-4e2b-8afc-93d2bc77ccc2.gif)
+  
+  
+  
+  
+  
+  
 
 
 

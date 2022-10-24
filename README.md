@@ -64,4 +64,13 @@ Na segunda imagem podemos verificar o caso de affordance numa interface, esta co
   Aqui podemos verificar e perceber um pouco como o desenvolvimento das interfaces ao longo dos anos tem evoluido e a tecnologia envolvida.
   
   ![GUI-Timeline-1024x424](https://user-images.githubusercontent.com/75622692/194699449-dff41d28-aa3f-47c2-84b7-26e5ba4abd46.png)
+  
+  ## Teoria do processo Cognitivo (24/10/2022)
+    
+  O ser humano adquire o seu conhecimento através dos seus sentidos.
+  Na imagem a baixo, podemos verificar a teoria do processo cognitivo em multimédia, na imagem as setas representam então o processo.
+    
+  ![processocognitivo](https://user-images.githubusercontent.com/75622692/197531366-c486ca16-b471-4e2b-8afc-93d2bc77ccc2.gif)
+
+
 

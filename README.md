@@ -72,6 +72,45 @@ Na segunda imagem podemos verificar o caso de affordance numa interface, esta co
     
   ![processocognitivo](https://user-images.githubusercontent.com/75622692/197531366-c486ca16-b471-4e2b-8afc-93d2bc77ccc2.gif)
   
+  ## Identificação dos requisitos (27/10/2022)
+  
+  Numa primeira fase, o primeiro passo que devemos ter é compreender o problema, quem são os utilizadores que utilizam, onde, quando, porquê e como é que completam uma tarefa nos dias de hoje, quais são os problemas que os utilizadores identificam e por fim identificar o que está na 'whish list' dos utilizadores para melhorarem a forma como completam as suas tarefas. 
+  Com isto podemos concluir que antes de proceder ao desenvolvimento do design, devemos entao compreender o utilizador, a tarefa e como é executada, para isto exitem técnias de recolha de dados.
+  
+  Relativamente a dados qualitativos(Dão-nos os porquês):
+  
+   - Observação naturalista
+      
+   - Grupos focais
+      
+   - Entrevistas
+      
+  Relativamente a dados quantitativos(Dão-nos os Quês):
+  
+   - Inquéritos
+      
+   - User analytics 
+      
+  
+  Representação de Categorias de utilizadores:
+  
+  - Utilizadores Primários: São utilizadores que interagem diretamente com o produto;
+    
+  - Utilizadores Secundários: São os utilizadores que obtêm alguns outpus do produto;
+    
+  - Utilizadores Terceários: São utilizadores que não usam mas que acabam por ser afetados pelo seu design.
+    
+    
+  ## Sugestão para o caderno digital (2)
+  
+   Neste segundo caso, escolhi a aplicação do Spotify, relativamente aos seus utilizadores, esta contém utilizadores primários e secundários. Os utilizadores primários no spotify são aquelas que fizeram o download da aplicação, os secundários são os utilizadores que acabam por utilizar a aplicação e vêm por exemplo a letra da música ou mesmo o apenas ouvir a música.
+   
+   ![image](https://user-images.githubusercontent.com/75622692/198315505-d6c9c482-f322-48cc-821c-ee512aa099a0.png)
+
+  
+  
+  
+  
   
   
   

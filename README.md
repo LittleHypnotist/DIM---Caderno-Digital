@@ -103,7 +103,7 @@ Na segunda imagem podemos verificar o caso de affordance numa interface, esta co
     
   ## Sugestão para o caderno digital (2)
   
-   Neste segundo caso, escolhi a aplicação do Spotify, relativamente aos seus utilizadores, esta contém utilizadores primários e secundários. Os utilizadores primários no spotify são aquelas que fizeram o download da aplicação, os secundários são os utilizadores que acabam por utilizar a aplicação e vêm por exemplo a letra da música ou mesmo o apenas ouvir a música.
+   Neste segundo caso, escolhi a aplicação do Spotify, relativamente aos seus utilizadores, esta contém utilizadores primários, secundários e terceários. Os utilizadores primários no spotify são aqueles que fizeram o download da aplicação e usam a mesma para ouvir musica, os secundários são os produtores, estes têm acesso por exemplo a um analytics dos ouvintes e por fim os terceários que são os desenvolvedores que melhoram a app e corrigem os problemas que nela existem.
    
    ![image](https://user-images.githubusercontent.com/75622692/198315505-d6c9c482-f322-48cc-821c-ee512aa099a0.png)
 

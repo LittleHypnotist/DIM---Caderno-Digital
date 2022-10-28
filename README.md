@@ -108,6 +108,79 @@ Na segunda imagem podemos verificar o caso de affordance numa interface, esta co
    ![image](https://user-images.githubusercontent.com/75622692/198315505-d6c9c482-f322-48cc-821c-ee512aa099a0.png)
 
   
+  ## Recolha de dados (28/10/2022)
+  
+   Existem considerações éticas que devemos ter no momento da recolha de dados, tais como:
+
+   - Pervenção do anonimato;
+   - Respeito pelas normas legais (Informação que identifique o utilizador, este tem de dar autorização)
+   
+   Na recolha de dados, existe a chamada observação naturalista que consiste:
+   
+   - Observar o utilizador enquanto o mesmo cumpre a tarefa; 
+   - Interação mínima com o utilizador;
+   - Notas de campo e análise principalmente qualitativa.
+   
+   Este tipo de recolha de dados tem as suas desvantagens:
+   
+   - Não há recolha do feedback dos utilizadores;
+   - Enviesamento do investigador.
+   
+   Uma outra forma de recolha de dados é através de questionários, isto é conseguir as opiniões dos utilizadores.
+   
+   Self-report 
+
+   - Comportamentos;
+   - Percepções;
+   - Atitudes;
+   - Sensações.
+    
+   Items fechados (análise quantitativa)
+
+   - Dicotomias;
+   - Escalas de Likert;
+   - Listas ordenadas (ranks);
+     
+   Items abertos (análise qualitativa)
+
+   - Opnião escrita;
+     
+   Desvantagens que encontramos nos questionários:
+     
+   - Conhecimento superficial
+   - Enviesamento dos participantes
+   - Enviesamento da amostragem
+     
+     
+   Grupos focais:
+  
+   Existe uma conversa com um grupo de utilizadores:
+   
+   - Entre 5 a 10 utilizadores
+   - Mínimo 2 investigadores, 1 moderador e 1 anotador
+   - Tempo máximo de 60 minutos.
+   
+   As suas desvantagens: 
+   
+   - Necessidade de uma equipa de investigação e um moderador com experiencia
+   - Os participantes podem começar a repetir-se relativamente às sua opiniões
+   - Existe o risco de apenas um participante dominar a discussão
+ 
+    
+   Entrevista com apenas um utilizador, existem 3 tipos:
+   
+   - Entrevista estruturada, esta segue um guião;
+   - Entrevista aberta, conversa livre;
+   - Entrevista semi-estruturada, segue um guião mas este deixa o entrevistado divagar na conversa e tem uma flexibilidade para colocar questões fora do guião
+   
+   Também tem as suas desvantagens:
+   
+   - Convém ser um entrevistador com experiência; 
+   - Este processo necessita de bastante tempo 
+   
+    
+      
+   
   
   
   

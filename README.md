@@ -178,7 +178,24 @@ Na segunda imagem podemos verificar o caso de affordance numa interface, esta co
    - Convém ser um entrevistador com experiência; 
    - Este processo necessita de bastante tempo 
    
+   
+## Novo Design (06/11/2022)
     
+O novo design tem um objetivo, esse é que o mesmo seja o mais adequado às necessidades que os utilizadores tendo em conta as soluções existentes.
+    
+Esse novo design pode implicar:
+    
+- Ajustes a nível de todo o sistema;
+    
+## Sugestão para o caderno digital (3)
+    
+A app escolhida para esta sugestão é o jogo Clash Royal, o mesmo ao longo dos tempos foi sofrendo diversas alterações ao nível do seu design, algumas das alterações que podemos verificar são como por exemplo, na primeira imagem não (sendo o design mais antigo), o mesmo só tem a opção do utilizador criar o seu deck, enquanto que na segunda imagem (design mais recente) o mesmo permite que o utiizador monte o seu deck bem como escolher os emotes que terá disponível no momento que se encontra a jogar com outra pessoa, o visual da torre do rei que o mesmo tem de defender e por último existe um separador de cartas especias. Estes separadores foram ao longo do tempo acrescentados devido ao desenvolvimento do jogo, isto é conforme o jogo foi apresentando novos modos de jogo e novas caracterias como por exemplo os emotes já referenciados o seu design foi alterando.
+    
+    
+![best-clash-royale-decks-strategy-good-decks-arena-3-4-5-6-7-new-cards-update-pekka_0](https://user-images.githubusercontent.com/75622692/200183209-3e3b8b90-ade5-4f1f-9ec6-64363a1eea89.jpg)
+    
+![Sem Título](https://user-images.githubusercontent.com/75622692/200183214-1188b9cc-d31d-44b5-bdcf-7ab419aaaf07.png)
+
       
    
   
